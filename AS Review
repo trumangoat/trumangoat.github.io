@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet"> 
+
+        <style>
+            
+            body {
+                font-family: 'Inconsolata', 'monospace';
+            }
+
+            .title,
+            .intro-text {
+                margin-left: auto;
+                margin-right: auto;
+                width: 700px;
+            }
+
+            header {
+                margin-left: auto;
+                margin-right: auto;
+                margin-top: 10vh;
+                margin-bottom: 10vh;
+            }
+
+            .title {
+                font-size: 70px;
+                margin-bottom: 15px;
+                margin-top: 0px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+
+            .title.sub-hed {
+                font-size: 49px;
+                font-weight: 500;
+            }
+
+            .line-separator {
+                height:1px;
+                width: 700px;
+                margin-left: auto;
+                margin-right: auto;
+                border-top-color: white;
+                border-left-color: white;
+                border-left-color: white;
+                border-bottom: solid black;
+            }
+
+            .intro-text {
+                font-size: 19px;
+                line-height: 29px;
+            }
+
+            .image {
+                width: 1000px;
+                margin-left: auto;
+                margin-right: auto;
+                /*border: .5px solid black;*/
+            }
+
+            .video {
+                width: 660px;
+                height: 420px;
+                margin-left: auto;
+                margin-right: auto;
+                /*border: .5px solid black;*/
+            }
+
+            img {
+                width: 100%;
+            }
+        
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1 class='title'>AS Review</h1>
+            <p class = 'intro-text'>One project while working with this food styling firm was designing and photographing the menu for our client El Portón, one of the largest restaurant chains in México. During this project I contributed to a large team consisting of the client, graphic designers, photographers, chefs, food stylists and project managers. I gave input into layout, our physical scenes to be photographed, the choice of props and the presentation of food. I also worked closely with the designers in order to understand the brand and look we were trying to achieve.</p>
+            <div class='line-separator'></div>
+            <header>
+                <p class='title sub-hed'>Cover of Menu</p>
+                <p class='intro-text'>This image is seen throughout hundreds of restaurants in the country. My biggest contribution to this was deciding the direction the egg yolks were heading.</p>
+                <div class='image'>
+                                        
+                </div>   
+            </header>
+    
+</html>
